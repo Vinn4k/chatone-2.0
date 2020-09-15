@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "44348737607",
+    "firebase_url": "https://chat2-d0ca6.firebaseio.com",
+    "project_id": "chat2-d0ca6",
+    "storage_bucket": "chat2-d0ca6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44348737607:android:79ae6959b31da1691a8962",
+        "android_client_info": {
+          "package_name": "com.vinntek.chatone2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44348737607-5ca5iqrc6bm9rav8nlkiiv6u8i2hjf7j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vinntek.chatone2",
+            "certificate_hash": "cb09127ec77cc500be6bce7fd16bc3c7beb223d7"
+          }
+        },
+        {
+          "client_id": "44348737607-5or1jrk0vuo1tjtu55mg4fv0s10ubdbr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAn4jNiySp_fjF-CnXHl90iFK9Q8RmQWUI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44348737607-5or1jrk0vuo1tjtu55mg4fv0s10ubdbr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
